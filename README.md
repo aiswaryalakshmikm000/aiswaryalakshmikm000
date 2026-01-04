@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning MERN (MongoDB, Express.js, React, Node.js).  
 - 💞️ I’m looking to collaborate on exciting MERN stack projects.  
 - 📫 How to reach me: aiswaryalakshmikm000@gmail.com  
+- 🔗 LinkedIn: [Aiswarya Lakshmi KM](https://www.linkedin.com/in/aiswarya-lakshmi-km/)  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love solving coding challenges and exploring new web technologies!  
+- ⚡ Fun fact: I love solving coding challenges and exploring new web technologies!
 
 
 <!---
